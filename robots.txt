@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /test/
+Disallow: /oc/
+Sitemap: https://megahvat.ru/sitemap.xml
+
+User-agent: yandex
+Disallow: /test/
+Disallow: /oc/
+Host: https://megahvat.ru/
+Sitemap: https://megahvat.ru/sitemap.xml

@@ -1,0 +1,10 @@
+RewriteEngine On
+
+RewriteCond %{HTTPS} =of
+RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^www.megahvat.ru$ [NC]
+RewriteRule ^(.*)$ https://megahvat.ru/$1 [R=301,L]
+
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.html\ HTTP/
+RewriteRule ^index\.html$ https://megahvat.ru/ [R=301,L]
