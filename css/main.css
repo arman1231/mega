@@ -197,8 +197,12 @@ main{
 }
 
 
-.main_offer button {background-image: linear-gradient(to right, #f6b324 0%, #f08c19  51%, #f6b324  100%)}
-.main_offer button {
+.mainoffer_a {
+  color: #fff;
+  background-image: linear-gradient(to right, #f6b324 0%, #f08c19  51%, #f6b324  100%);
+}
+.mainoffer_a {
+  color: #fff;
   font-family: "Intro";
   text-transform: uppercase;
   font-size: 20px;
@@ -215,7 +219,7 @@ main{
    border: none;
  }
 
- .main_offer button:hover {
+ .mainoffer_a:hover {
    background-position: right center; /* change the direction of the change here */
    color: #fff;
    text-decoration: none;
