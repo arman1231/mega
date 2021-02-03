@@ -108,7 +108,11 @@
     .header__link {
         font-size: 24px;
     }
-
+    .main_offer {
+        
+        justify-content: center;
+       
+    }
 }
 
 
