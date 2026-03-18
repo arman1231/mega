@@ -7,16 +7,6 @@
     font-style: normal;
 
 }
-/* font-family: "Intro"; */
-@font-face {
-	font-family: "Intro";
-	src: url("../fonts/Intro/8439.eot");
-	src: url("../fonts/Intro/8439.eot?#iefix")format("embedded-opentype"),
-	url("../fonts/Intro/8439.woff") format("woff"),
-	url("../fonts/Intro/8439.ttf") format("truetype");
-	font-style: normal;
-	font-weight: normal;
-}
 /* font-family: "RobotoLight"; */
 @font-face {
 	font-family: "RobotoLight";
@@ -100,6 +90,5 @@
 	font-style: normal;
 }
 
-@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600');
-
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600,800');
 

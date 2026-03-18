@@ -85,7 +85,9 @@ body {
   margin-bottom: 0px;
   padding-bottom: 0px;
   font-size: 60px;
-  font-family: "Intro";
+  font-family: "Montserrat", sans-serif;
+  font-weight: 800;
+  letter-spacing: 0.04em;
   line-height: 50px;
   text-align: center;
 }
@@ -121,7 +123,9 @@ body {
 
 .promo_button p {
   color: white;
-  font-family: "Intro";
+  font-family: "Montserrat", sans-serif;
+  font-weight: 800;
+  letter-spacing: 0.04em;
   text-transform: uppercase;
   font-size: 25px;
   background-color: #f6b324;
@@ -203,7 +207,9 @@ main{
 }
 .mainoffer_a {
   color: #fff;
-  font-family: "Intro";
+  font-family: "Montserrat", sans-serif;
+  font-weight: 800;
+  letter-spacing: 0.04em;
   text-transform: uppercase;
   font-size: 20px;
    margin: 10px;
@@ -288,7 +294,9 @@ main{
   display: flex;
   flex-direction: row;
   justify-content:space-around;
-  font-family: "Intro";
+  font-family: "Montserrat", sans-serif;
+  font-weight: 800;
+  letter-spacing: 0.04em;
   text-transform: uppercase;
   font-size: 25px;
   background-color: #f6b324;
@@ -326,7 +334,9 @@ main{
 }
 
 .main_header h2 {
-  font-family: "Intro";
+  font-family: "Montserrat", sans-serif;
+  font-weight: 800;
+  letter-spacing: 0.04em;
   text-transform: uppercase;
   font-size: 30px;
 }
@@ -459,12 +469,16 @@ footer {
     margin-top: 4%;
   }
   .content_header h1{
-    font-family: "Intro";
+    font-family: "Montserrat", sans-serif;
+  font-weight: 800;
+  letter-spacing: 0.04em;
   text-transform: uppercase;
   font-size: 30px;
   }
   .content_header h2{
-    font-family: "Intro";
+    font-family: "Montserrat", sans-serif;
+  font-weight: 800;
+  letter-spacing: 0.04em;
   text-transform: uppercase;
   font-size: 24px;
   }
@@ -594,7 +608,9 @@ footer {
 }
 .button {background-image: linear-gradient(to right, #f6b324 0%, #f08c19  51%, #f6b324  100%)}
 .button {
-  font-family: "Intro";
+  font-family: "Montserrat", sans-serif;
+  font-weight: 800;
+  letter-spacing: 0.04em;
   text-transform: uppercase;
   font-size: 20px;
    margin: 10px;
